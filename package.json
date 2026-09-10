@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "aplicacao-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielScatolino/aplicacao-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GabrielScatolino/aplicacao-devops/issues"
+  },
+  "homepage": "https://github.com/GabrielScatolino/aplicacao-devops#readme"
+}
